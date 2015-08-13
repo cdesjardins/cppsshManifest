@@ -1,5 +1,5 @@
 <manifest>
-    <remote name="github" alias="origin" fetch="ssh://git@github.com/cdesjardins"/>
+    <remote name="github" alias="origin" fetch="https://github.com/cdesjardins"/>
     <default revision="refs/heads/master"       remote="github" sync-j="4"/>
     <project name="ComBomb.git"     remote="github" path="ComBomb"/>
     <project name="CDLogger.git"    remote="github" path="CDLogger"/>
