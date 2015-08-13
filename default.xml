@@ -1,7 +1,6 @@
 <manifest>
     <remote name="github" alias="origin" fetch="https://github.com/cdesjardins"/>
     <default revision="refs/heads/master"       remote="github" sync-j="4"/>
-    <project name="ComBomb.git"     remote="github" path="ComBomb"/>
     <project name="CDLogger.git"    remote="github" path="CDLogger"/>
     <project name="cppssh.git"      remote="github" path="cppssh"/>
     <project name="include.git"     remote="github" path="include"/>
