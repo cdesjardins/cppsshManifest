@@ -3,6 +3,7 @@
     <default revision="refs/heads/master"       remote="github" sync-j="4"/>
     <project name="CDLogger.git"    remote="github" path="CDLogger"/>
     <project name="cppssh.git"      remote="github" path="cppssh"/>
+    <project name="QueuePtr.git"    remote="github" path="QueuePtr"/>
     <project name="include.git"     remote="github" path="include"/>
     <project name="botan.git"       remote="github" path="botan"/>
 </manifest>
