@@ -4,5 +4,6 @@
     <project name="ComBomb.git"     remote="github" path="ComBomb"/>
     <project name="CDLogger.git"    remote="github" path="CDLogger"/>
     <project name="cppssh.git"      remote="github" path="cppssh"/>
+    <project name="include.git"     remote="github" path="include"/>
     <project name="botan.git"       remote="github" path="botan"/>
 </manifest>
